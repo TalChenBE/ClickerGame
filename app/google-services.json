@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778838683484",
+    "firebase_url": "https://clicker-63f5e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clicker-63f5e",
+    "storage_bucket": "clicker-63f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778838683484:android:88baea90594848c37a5b99",
+        "android_client_info": {
+          "package_name": "com.example.clickergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778838683484-hv4ib36smv6iv6j0a3fnrp39dt2gg8vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9vuY-FFx-OcUI5eRI7FjCVs04ItgrJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778838683484-hv4ib36smv6iv6j0a3fnrp39dt2gg8vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

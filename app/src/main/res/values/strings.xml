@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ClickerGame</string>
+    <string name="score">score</string>
+    <string name="player_name">name</string>
+    <string name="player_score">score</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="allow_notification">Allow notifications</string>
+    <string name="paused_game">Paused Game</string>
+    <string name="resume">Resume</string>
+    <string name="quit">Quit Game</string>
+    <string name="instructions">Instructions</string>
+    <string name="got_it">Got it!</string>
+    <string name="win">YOU WON!!!</string>
+    <string name="lost">YOU LOST!!!</string>
+    <string name="ok">OK</string>
+    <string name="return_home">Back Home</string>
+
+
+</resources>

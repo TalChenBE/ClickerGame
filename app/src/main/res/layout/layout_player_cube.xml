@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginBottom="5dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="1dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="3dp"
+        android:text="@string/player_name" />
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:layout_weight="1"
+        android:gravity="center|center_horizontal|center_vertical"
+        android:paddingStart="4dp"
+        android:shadowRadius="5"
+        android:text="@string/player_score" />
+</LinearLayout>
